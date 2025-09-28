@@ -19,4 +19,4 @@ Este proyecto consiste en una **aplicación web interactiva** desarrollada con *
 - **Streamlit**: Para construir la aplicación web.
 
 ## Autor
--**Erick Cervantes**
+- **Erick Cervantes**
